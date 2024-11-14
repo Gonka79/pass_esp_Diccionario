@@ -61,7 +61,7 @@ El diccionario incluye las siguientes categorías:
 
   **Como verificar el contenido del archivo:**
 
- `xz -l pass_esp_AI.txt.xz`
+  `xz -l pass_esp_AI.txt.xz`
 
  ## [Revisar archivo en VirusTotal](https://www.virustotal.com/gui/file/a4f7782fc8939849c07740cb48e030401a2b275d60363cb38b1b2b80df2fd136?nocache=1)
 
