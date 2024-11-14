@@ -17,6 +17,17 @@ The password dictionary includes the following categories:
 9. **Combination of Child Names**: Mix of two children's names followed by a year, such as `carmenlucas2024`.
 10. **Random Numeric Combinations**: Dates and random numbers, from `06101979` to `31121990`.
 
+## Download / To decompress with tar (if it was created using tar):
+
+  `tar -xJf pass_esp_AI.txt.xz`
+
+  **Verify content without decompressing:**
+
+ `xz -l pass_esp_AI.txt.xz`
+
+ ## [Check file on VirusTotal](https://www.virustotal.com/gui/file/a4f7782fc8939849c07740cb48e030401a2b275d60363cb38b1b2b80df2fd136?nocache=1)
+
+
 ## How to Use
 - This dictionary is intended for ethical use in penetration testing and password analysis.
 - It can be used with tools like `John the Ripper`, `Hydra`, or `Hashcat` for brute-force attacks.
@@ -43,3 +54,14 @@ El diccionario incluye las siguientes categorías:
 ## Cómo Utilizar
 - Este diccionario está destinado para uso ético en pruebas de penetración y análisis de contraseñas.
 - Puede utilizarse con herramientas como `John the Ripper`, `Hydra` o `Hashcat` para ataques de fuerza bruta.
+
+  ## Descarga / descomprimir el archivo utilizando tar:
+
+  `tar -xJf pass_esp_AI.txt.xz`
+
+  **Como verificar el contenido del archivo:**
+
+ `xz -l pass_esp_AI.txt.xz`
+
+ ## [Revisar archivo en VirusTotal](https://www.virustotal.com/gui/file/a4f7782fc8939849c07740cb48e030401a2b275d60363cb38b1b2b80df2fd136?nocache=1)
+
