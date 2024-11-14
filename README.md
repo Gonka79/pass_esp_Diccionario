@@ -27,16 +27,15 @@ The password dictionary includes the following categories:
 
  ## [Check file on VirusTotal](https://www.virustotal.com/gui/file/a4f7782fc8939849c07740cb48e030401a2b275d60363cb38b1b2b80df2fd136?nocache=1)
 
+ ## VirusTotal Report
+
+![VirusTotal Report](virustotal.png "Reporte de VirusTotal")
+
 
 ## How to Use
 - This dictionary is intended for ethical use in penetration testing and password analysis.
 - It can be used with tools like `John the Ripper`, `Hydra`, or `Hashcat` for brute-force attacks.
 
-
-## VirusTotal Report
-A continuación se muestra el análisis del archivo en VirusTotal:
-
-![VirusTotal Report](virustotal.png "Reporte de VirusTotal")
 
 
 ---
@@ -71,4 +70,8 @@ El diccionario incluye las siguientes categorías:
   `xz -l pass_esp_AI.txt.xz`
 
  ## [Revisar archivo en VirusTotal](https://www.virustotal.com/gui/file/a4f7782fc8939849c07740cb48e030401a2b275d60363cb38b1b2b80df2fd136?nocache=1)
+
+  ## Reporte de VirusTotal
+
+![VirusTotal Report](virustotal.png "Reporte de VirusTotal")
 
