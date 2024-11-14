@@ -32,6 +32,13 @@ The password dictionary includes the following categories:
 - This dictionary is intended for ethical use in penetration testing and password analysis.
 - It can be used with tools like `John the Ripper`, `Hydra`, or `Hashcat` for brute-force attacks.
 
+
+## VirusTotal Report
+A continuación se muestra el análisis del archivo en VirusTotal:
+
+![VirusTotal Report](virustotal.png "Reporte de VirusTotal")
+
+
 ---
 
 ## Descripción General (Español)
